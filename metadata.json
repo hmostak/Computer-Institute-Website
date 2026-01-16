@@ -1,0 +1,7 @@
+{
+  "name": "GVS Computer Management System",
+  "description": "A comprehensive ERP and website for computer training institutes, featuring student management, branch control, course handling, fee tracking, and an online admission portal.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
